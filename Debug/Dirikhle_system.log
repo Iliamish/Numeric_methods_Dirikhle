@@ -1,0 +1,5 @@
+﻿  Dirikhle_system.cpp
+F:\NNGU\Dirikhle_system\Dirikhle_system.cpp(16,26): warning C4018: '<': signed/unsigned mismatch
+F:\NNGU\Dirikhle_system\Dirikhle_system.cpp(50,26): warning C4018: '<': signed/unsigned mismatch
+F:\NNGU\Dirikhle_system\Dirikhle_system.cpp(177,19): warning C4018: '<': signed/unsigned mismatch
+  Dirikhle_system.vcxproj -> F:\NNGU\Dirikhle_system\Debug\Dirikhle_system.exe
